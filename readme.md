@@ -32,3 +32,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Keywords for Thefork.it Program on GitHub:
 Rollbit.com, Scraper, Web scraping, Data collection, Python, Beautiful Soup, Requests library, Gaming platform, Marketplace, User data, Game data, Real-time updates, Data storage, Data analysis, Statistics, API, Data mining, Rollbit API, Open-source, MIT License
+
+## Legal and Ethical Considerations
+
+Remember to adhere to legal and ethical guidelines when scraping websites. Always respect the website's terms of service and scraping policies. Ensure your use of the scraped data complies with applicable laws and regulations, especially regarding data privacy and intellectual property rights. 🚫⚖️
+
+*Disclaimer: This web scraping guide is intended solely for educational and informational purposes. Please use web scraping responsibly and in accordance with the terms and conditions of the target website.* 📚🔍
